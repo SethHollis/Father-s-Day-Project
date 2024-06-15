@@ -18,8 +18,8 @@ body {
 
 .scroll-msg {
   position: relative;
-  left: 40%;
-  top: 40%;
+  left: 35%;
+  top: 35%;
   opacity: 25%;
   font-family: cursive;
 }
