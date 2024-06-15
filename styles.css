@@ -16,6 +16,29 @@ body {
   align-items: center;
 }
 
+.scroll-msg {
+  position: relative;
+  left: 40%;
+  top: 40%;
+  opacity: 25%;
+  font-family: cursive;
+}
+
+.arrow {
+  border: solid black;
+  border-width: 0 3px 3px 0;
+  position: relative;
+  display: inline-block;
+  padding: 3px;
+  left: 15px;
+  bottom: 15px;
+}
+
+.down {
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+}
+
 .overall {
   position: absolute;
   display:flex;
