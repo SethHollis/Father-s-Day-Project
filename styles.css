@@ -21,7 +21,7 @@ body {
   left: 35%;
   top: 35%;
   opacity: 25%;
-  font-family: cursive;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .arrow {
@@ -81,7 +81,7 @@ body {
   border-radius: 14%;
   font-size:18px;
   text-align: center;
-  font-family: cursive;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: rgb(37, 24, 58); 
 }
 
